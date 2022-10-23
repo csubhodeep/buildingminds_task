@@ -1,0 +1,5 @@
+fastapi
+joblib
+scikit-learn==1.1.1
+sqlalchemy
+uvicorn[standard]
